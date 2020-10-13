@@ -1,16 +1,15 @@
-### Hi there 👋
+Hola, I'm Rahul Patel 👋
 
-<!--
-**ItsmeRahul98/itsmeRahul98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Nimblechaspps as Front End Developer
+- 🌱 I’m currently learning Python and Data Science
+- 👯 I’m looking to collaborate on Github
+- 🤔 I’m looking for help for Learning Data Science 
+- 💬 Ask me about Front end any kind of stuff.
+- 📫 How to reach me: [Twitter : ThisIs_rahul99](https://twitter.com/ThisIs_rahul99)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I liked Scary movies a lot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsmeRahul98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&&text_color=daf7dc&bg_color=151515">
