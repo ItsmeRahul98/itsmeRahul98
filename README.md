@@ -6,7 +6,7 @@ Hola, I'm Rahul Patel 👋
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help for Learning Data Science 
 - 💬 Ask me about Front end any kind of stuff.
-- 📫 How to reach me: [Twitter : ThisIs_rahul99](https://twitter.com/ThisIs_rahul99)
+- 📫 How to reach me: Twitter : [ThisIs_rahul99](https://twitter.com/ThisIs_rahul99)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I liked Scary movies a lot.
 
