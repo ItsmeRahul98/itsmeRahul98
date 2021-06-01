@@ -1,7 +1,7 @@
 Hola, I'm Rahul Patel 👋
 
 
-- 🔭 I’m currently working on Publicis Sapient as Front End Developer
+- 🔭 I’m currently working at Publicis Sapient as Front End Developer
 - 🌱 I’m currently learning Python and Data Science
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help for Learning Data Science 
